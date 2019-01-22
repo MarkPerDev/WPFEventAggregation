@@ -111,5 +111,3 @@ object binding, real time property changes (NotifyOfPropertyChange...) and how t
 
 		_eventAggregator.PublishOnUIThread(em);
 	}
- 
-	
